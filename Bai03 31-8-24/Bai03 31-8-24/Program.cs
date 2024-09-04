@@ -34,4 +34,5 @@ app.MapControllerRoute(
     pattern: "gioi-thieu-nhom/{action=Index}/{id?}",
     defaults: new { controller = "Nhom", action = "Index" });
 
+    
 app.Run();

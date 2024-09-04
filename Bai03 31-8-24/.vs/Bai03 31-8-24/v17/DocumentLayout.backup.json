@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|c:\\users\\admin\\documents\\ltweb\\bai03 31-8-24\\bai03 31-8-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C95463-6793-4400-A7F4-7AEAC27EBD0C}|Bai03 31-8-24\\Bai03 31-8-24.csproj|solutionrelative:bai03 31-8-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,58 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Bai03 31-8-24\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Bai03 31-8-24\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-31T07:19:55.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Program.cs",
-              "RelativeDocumentMoniker": "Bai03 31-8-24\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Program.cs",
-              "RelativeToolTip": "Bai03 31-8-24\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T06:52:20.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
-              "RelativeToolTip": "Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T07:10:16.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NhomController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Controllers\\NhomController.cs",
-              "RelativeDocumentMoniker": "Bai03 31-8-24\\Controllers\\NhomController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Controllers\\NhomController.cs",
-              "RelativeToolTip": "Bai03 31-8-24\\Controllers\\NhomController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai03 31-8-24\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "Bai03 31-8-24\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T07:22:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Bai03 31-8-24\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Controllers\\TheLoaiController.cs*",
+              "RelativeToolTip": "Bai03 31-8-24\\Controllers\\TheLoaiController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T07:09:53.707Z",
+              "WhenOpened": "2024-09-04T07:21:35.014Z",
               "EditorCaption": ""
             },
             {
@@ -107,28 +73,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Bai03 31-8-24\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Bai03 31-8-24\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T06:53:29.142Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Program.cs",
+              "RelativeDocumentMoniker": "Bai03 31-8-24\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Program.cs",
+              "RelativeToolTip": "Bai03 31-8-24\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:52:20.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\.gitignore",
-              "RelativeDocumentMoniker": "Bai03 31-8-24\\.gitignore",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\.gitignore",
-              "RelativeToolTip": "Bai03 31-8-24\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-31T06:50:52.825Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\Bai03 31-8-24\\Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
+              "RelativeToolTip": "Bai03 31-8-24\\Views\\Nhom\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T07:10:16.986Z",
               "EditorCaption": ""
             }
           ]
