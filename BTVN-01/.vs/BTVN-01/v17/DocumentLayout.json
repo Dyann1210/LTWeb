@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|c:\\users\\admin\\documents\\ltweb\\btvn-01\\btvn-01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|solutionrelative:btvn-01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|c:\\users\\admin\\documents\\ltweb\\btvn-01\\btvn-01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|solutionrelative:btvn-01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|c:\\users\\admin\\documents\\ltweb\\btvn-01\\btvn-01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|solutionrelative:btvn-01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|c:\\users\\admin\\documents\\ltweb\\btvn-01\\btvn-01\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|solutionrelative:btvn-01\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|c:\\users\\admin\\documents\\ltweb\\btvn-01\\btvn-01\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|solutionrelative:btvn-01\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|c:\\users\\admin\\documents\\ltweb\\btvn-01\\btvn-01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|solutionrelative:btvn-01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|c:\\users\\admin\\documents\\ltweb\\btvn-01\\btvn-01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A87AD165-40AB-4376-8C78-8AD4AAF8601E}|BTVN-01\\BTVN-01.csproj|solutionrelative:btvn-01\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BTVN-01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BTVN-01\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T04:39:15.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTVN-01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTVN-01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T04:38:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BTVN-01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BTVN-01\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T04:38:52.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN-01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTVN-01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T04:38:51.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\Nhom\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN-01\\Views\\Nhom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Views\\Nhom\\Index.cshtml",
+              "RelativeToolTip": "BTVN-01\\Views\\Nhom\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T04:37:07.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhomController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Controllers\\NhomController.cs",
+              "RelativeDocumentMoniker": "BTVN-01\\Controllers\\NhomController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\Controllers\\NhomController.cs",
+              "RelativeToolTip": "BTVN-01\\Controllers\\NhomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T04:36:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\.gitignore",
+              "RelativeDocumentMoniker": "BTVN-01\\.gitignore",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BTVN-01\\BTVN-01\\.gitignore",
+              "RelativeToolTip": "BTVN-01\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T04:34:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "BT05\\Views\\TheLoai\\Index2.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BT05\\BT05\\Views\\TheLoai\\Index2.cshtml",
               "RelativeToolTip": "BT05\\Views\\TheLoai\\Index2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-04T08:01:13.993Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "BT05\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T07:55:32.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:55:32.157Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "BT05\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T07:55:31.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:55:31.417Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "BT05\\Models\\TheLoaiViewmodel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:50:42.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:50:42.57Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "BT05\\Views\\TheLoai\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T07:42:10.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:42:10.319Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "BT05\\Controllers\\TheLoaiController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:41:45.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:41:45.355Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "BT05\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T07:55:39.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:55:39.734Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,11 @@
               "RelativeToolTip": "BT05\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-04T07:40:35.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:40:35.099Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

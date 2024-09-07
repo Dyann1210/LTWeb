@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1cbd1c08acf8449f60a19f761e4a1ed11ad912a6\\Views_TheLoai_Index_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -32,6 +12,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|c:\\users\\admin\\documents\\ltweb\\bt03\\bt03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{78F3647F-0D33-4C21-A01C-F01A79A01A41}|BT03\\BT03.csproj|solutionrelative:bt03\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,34 +41,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Program.cs",
-              "RelativeDocumentMoniker": "BT03\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Program.cs",
-              "RelativeToolTip": "BT03\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T06:41:34.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BT03\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BT03\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T05:01:11.235Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -84,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Views\\TheLoai\\Index.cshtml",
               "RelativeDocumentMoniker": "BT03\\Views\\TheLoai\\Index.cshtml",
@@ -97,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "TheLoaiController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Controllers\\TheLoaiController.cs",
               "RelativeDocumentMoniker": "BT03\\Controllers\\TheLoaiController.cs",
@@ -110,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Views_TheLoai_Index_cshtml.g.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1cbd1c08acf8449f60a19f761e4a1ed11ad912a6\\Views_TheLoai_Index_cshtml.g.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cbd1c08acf8449f60a19f761e4a1ed11ad912a6\\Views_TheLoai_Index_cshtml.g.cs",
@@ -123,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BT03\\Views\\Home\\Index.cshtml",
@@ -136,7 +110,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BT03\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BT03\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T05:01:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Program.cs",
+              "RelativeDocumentMoniker": "BT03\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\Program.cs",
+              "RelativeToolTip": "BT03\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:41:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\LTWeb\\BT03\\BT03\\.gitignore",
               "RelativeDocumentMoniker": "BT03\\.gitignore",
@@ -144,8 +148,7 @@
               "RelativeToolTip": "BT03\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-31T04:54:25.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T04:54:25.481Z"
             }
           ]
         }
