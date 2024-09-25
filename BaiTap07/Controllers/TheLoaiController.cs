@@ -86,12 +86,34 @@ namespace BaiTap07.Controllers
             return RedirectToAction("Index");
         }
         [HttpGet]
-        public IActionResult Details()
+        public IActionResult Details(int id)
         {
-          
-            return View();
+            if (id == 0)
+            {
+                return NotFound();
+            }
+
+            var theloai = _db.TheLoai.Find(id);
+
+            if (theloai == null)
+            {
+                return NotFound();
+            }
+
+            return View(theloai);
         }
 
-       
+        [HttpPost]
+        public IActionResult DetailsConfirm(int Id)
+        {
+            var theloai = _db.TheLoai.Find(Id);
+            if (theloai == null)
+            {
+                return NotFound();
+            }
+            return RedirectToAction("Details", new { id = Id });
+        }
+
+
     }
 }
