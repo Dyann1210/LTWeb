@@ -1,6 +1,8 @@
 ﻿using BaiTap07.Data;
 using BaiTap07.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace BaiTap07.Controllers
 {
@@ -114,6 +116,23 @@ namespace BaiTap07.Controllers
             return RedirectToAction("Details", new { id = Id });
         }
 
-
+        [HttpGet]
+        public IActionResult Search(String searchString)
+            {
+                if (!string.IsNullOrEmpty(searchString))
+            { 
+                    var theloai = _db.TheLoai.
+                    Where(tl => tl.Name.Contains(searchString)).ToList();
+                ViewBag.SearchString = searchString;
+                ViewBag.TheLoai = theloai;
+            }
+            else
+            {
+                var theloai = _db.TheLoai.ToList();
+                ViewBag.TheLoai = theloai;
+            }
+            return View("Index");
+        }
+    
     }
 }
