@@ -1,9 +1,6 @@
 ﻿@model SanPham
 <div class="container">
-    <h3> Thêm/chỉnh sửa sản phẩm</h3>
-    <form method="post" action="Upsert">
-        <input asp-for="Id" type="hidden" />
-        <div asp-validation-summary="All" class="text-danger"></div>
+    <form method="post" asp-action="Upsert">
         <div class="form-group">
             <label asp-for="Name"> Tên sản phẩm </label>
             <input asp-for="Name" type="text" class="form-control" />
@@ -23,7 +20,7 @@
 
         <div class="form-group">
             <label asp-for="ImageUrl">Hình ảnh</label>
-            <input asp-for="ImageUrl" type="text" class="form-control" />
+            <input asp-for="ImageUrl" type="text" class="form-control">
             <span asp-validation-for="ImageUrl" class="text-danger"></span>
         </div>
 
@@ -36,14 +33,10 @@
             <span asp-validation-for="ImageUrl" class="text-danger"></span>
         </div>
 
-
         <button type="submit" class="btn btn-primary">@(Model.Id == 0 ? "Tạo mới" : "Cập nhật")</button>
-        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        <a asp-action="Index" class="btn btn-secondary">Huy</a>
     </form>
 </div>
-
 @section Scripts {
-    @{
-        <partial name="_ValidationScriptsPartial" />
-    }
+    <partial name="_ValidationScriptsPartial" />
 }
