@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Project.Data;
@@ -7,6 +8,7 @@ using Project.Models;
 namespace Project.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class SanPhamController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -71,7 +73,7 @@ namespace Project.Controllers
                 }
              _db.SanPham.Remove(sanpham);
             _db.SaveChanges();
-            return Json(new { success = true });
+            return Json(new {success=true});
         }
     }
 }

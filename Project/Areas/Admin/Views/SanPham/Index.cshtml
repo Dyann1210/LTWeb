@@ -3,15 +3,15 @@
     <table class="table">
         <thead>
             <tr>
-            <th>Tên sản phẩm</th>
-            <th>Mô tả</th>
-            <th>Gía tiền</th>
-            <th>Hình ảnh</th>
-            <th>Tên thể loại</th>
-            <th>Chức năng</th>
+                <th>Tên sản phẩm</th>
+                <th>Mô tả</th>
+                <th>Gía tiền</th>
+                <th>Hình ảnh</th>
+                <th>Tên thể loại</th>
+                <th>Chức năng</th>
             </tr>
         </thead>
-            <tbody>
+        <tbody>
             @foreach (var item in @Model)
             {
                 <tr>
@@ -23,7 +23,7 @@
                     <td>
                         <a asp-action="Upsert" asp-route-id="@item.Id">Edit</a> |
                         <a href="#">Details</a> |
-                        <a href="#" onclick="xoa(@item.Id, $(this))">Delete</a>
+                        <a href="#" onclick="confirmDelete(@item.Id, $(this))">Delete</a>
                     </td>
                 </tr>
             }
@@ -34,18 +34,21 @@
 
 <script>
     function confirmDelete(id, row) {
-        if (confirm("Ban co chac chan xoa sp co id la " + id + "?")) {
+        if (confirm("Ban co chac chan muon xoa san pham co id " + id + "?")) {
             xoa(id, $(row))
         }
     }
-    function xoa(idx, row) {
+
+
+    function xoa(id, row) {
         $.ajax({
-            url: `SanPham/Delete`,
-            data: { id: idx },
-            typeof: "POST",
+            url: 'SanPham/Delete',  //Truoc so 1 ben duoi nut ESC
+            data: { id: id },
+            type: "POST",
             success: function (data) {
-                row.closest("tr").remove();
+                row.closet("tr").remove();
             }
         })
     }
+
 </script>
