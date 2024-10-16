@@ -32,23 +32,3 @@
     <a asp-controller="Order" asp-action="Upsert" class="btn btn-primary">Thêm mới</a>
 </div>
 
-<script>
-    function confirmDelete(id, row) {
-        if (confirm("Ban co chac chan muon xoa san pham co id " + id + "?")) {
-            xoa(id, $(row))
-        }
-    }
-
-
-    function xoa(id, row) {
-        $.ajax({
-            url: 'Order/Delete',  //Truoc so 1 ben duoi nut ESC
-            data: { id: id },
-            type: "POST",
-            success: function (data) {
-                row.closet("tr").remove();
-            }
-        })
-    }
-
-</script>
